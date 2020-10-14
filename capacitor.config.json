@@ -1,0 +1,13 @@
+{
+  "appId": "com.koftov.links",
+  "appName": "koftov-links",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

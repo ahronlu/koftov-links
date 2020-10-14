@@ -1,0 +1,7 @@
+{
+  "name": "koftov-links",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
